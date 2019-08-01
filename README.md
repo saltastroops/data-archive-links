@@ -1,2 +1,4 @@
-# data-archive-links
-Links to the data archive code and software used by it
+SAAO/SALT Data Archive
+
+* [Data Archive backend](https://github.com/saltastroops/data-archive-backend)
+* [Data Archive frontend](https://github.com/saltastroops/data-archive-frontend)
