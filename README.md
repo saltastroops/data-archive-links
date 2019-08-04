@@ -2,7 +2,7 @@ SAAO/SALT Data Archive
 
 * [Data Archive backend](https://github.com/saltastroops/data-archive-backend)
 * [Data Archive frontend](https://github.com/saltastroops/data-archive-frontend)
-* [Populating thec observation database](https://github.com/saltastroops/data-archive-database)
+* [Script for populating the observation database](https://github.com/saltastroops/data-archive-database)
 * [graphql-yoga](https://github.com/prisma/graphql-yoga)
 * [PassportJS](https://github.com/jaredhanson/passport)
 * [React](https://reactjs.org)
@@ -16,3 +16,4 @@ SAAO/SALT Data Archive
 * [TS Lint](https://palantir.github.io/tslint/)
 * [Prettier](https://prettier.io)
 * [Husky](https://github.com/typicode/husky#readme)
+* [target-position](https://www.npmjs.com/package/target-position)
